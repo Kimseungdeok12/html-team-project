@@ -289,5 +289,15 @@ a {
   text-decoration: none; /* 밑줄 제거 */
 }
 
+.custom-btn-ksd {
+  background-color: white;
+  border-color: blue; /* 버튼 테두리 색상은 부트스트랩의 버튼에 맞게 조정할 수 있습니다. */
+  color:blue;
+}
 
+.custom-btn-ksd:hover {
+  background-color: black;
+  border-color: black; /* 버튼 테두리 색상은 부트스트랩의 버튼에 맞게 조정할 수 있습니다. */
+  color:white;
+}
 
